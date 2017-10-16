@@ -12,7 +12,7 @@ var UrlHelpers = {
 
 module.exports = UrlHelpers;
 import 'whatwg-fetch';
-const AppState = require('alpha-client-lib/lib/appState');
+const AppState = require('xbuilder-core/lib/appState');
 
 var apiKey = AppState.getProp('config.maps_api_key');
 if(!serverSide && apiKey)

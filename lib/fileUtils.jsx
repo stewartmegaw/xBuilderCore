@@ -2,7 +2,7 @@ import React from 'react';
 
 import 'whatwg-fetch';
 
-const Loading = require('alpha-client-lib/partials/helpers/loading');
+const Loading = require('xbuilder-core/helpers/loading');
 
 var FileUtils = {
 

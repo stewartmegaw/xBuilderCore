@@ -3,7 +3,7 @@ import React from 'react';
 if(!serverSide)
 var $ = require("jquery");
 
-const Loading = require('alpha-client-lib/partials/helpers/loading');
+const Loading = require('xbuilder-core/helpers/loading');
 
 var VideoUtils = {
 
