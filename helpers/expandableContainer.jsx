@@ -6,7 +6,7 @@ Still TODOs
 
 const React = require('react');
 
-const Styles = require('../../style/helpers/expandableContainer.css');
+const Styles = require('../style/helpers/expandableContainer.css');
 
 
 const ExpandableContainer = React.createClass({
